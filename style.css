@@ -29,6 +29,7 @@ p{
 section{
     height: 500px;
     padding-bottom: 150px;
+    margin-bottom: 4rem;
 }
 .top-banner{
     background-image: url("./Assets/top-banner.png");
@@ -42,7 +43,6 @@ section{
     float: left;
     margin-left: 5%;
     padding-left: 2%;
-    margin-top: 2rem;
 }
 .half-width img{
     width: 100%;
@@ -72,8 +72,9 @@ section{
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 80%;
+    background-size: cover;
     background-color: white;
+    margin-top: 4rem;
 }
 .experience-area{
     background-image: url("./Assets/exp-bg.png");
