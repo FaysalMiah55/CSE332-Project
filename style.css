@@ -10,24 +10,30 @@ h1{
 }
 h2{
     font-size: 40px;
-    margin-top: 3rem;
+    margin-top: 2rem;
     margin-bottom: 1rem;
 }
 h3{
     font-size: 30px;
-    margin-top: 3rem;
+    margin-top: 2rem;
     margin-bottom: 1rem;
 }
 h4{
+    font-size: 25px;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+h5{
+    font-size: 16px;
     color: orange;
 }
 p{
-    font-size: 20px;
+    font-size: 18px;
     text-align: justify;
     color: dimgray;
 }
 section{
-    height: 500px;
+    height: 600px;
     padding-bottom: 150px;
     margin-bottom: 4rem;
 }
@@ -36,9 +42,10 @@ section{
     background-repeat: no-repeat;
 }
 .name-heilight{
-    color: deeppink;
+    color: tomato;
 }
 .half-width{
+    margin-top: 150px;
     width: 40%;
     float: left;
     margin-left: 5%;
@@ -72,7 +79,7 @@ section{
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    background-size: cover;
+    height: 80%;
     background-color: white;
     margin-top: 4rem;
 }
